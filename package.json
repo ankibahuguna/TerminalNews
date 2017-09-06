@@ -1,0 +1,36 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "Read news on your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankibahuguna/TerminalNews.git"
+  },
+  "keywords": [
+    "news",
+    "terminal",
+    "node",
+    "js",
+    "node",
+    "The",
+    "hindu"
+  ],
+  "author": "Ankit Bahuguna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankibahuguna/TerminalNews/issues"
+  },
+  "homepage": "https://github.com/ankibahuguna/TerminalNews#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "colors": "^1.1.2",
+    "feedparser": "^2.2.1",
+    "html-to-text": "^3.3.0",
+    "prompt": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
