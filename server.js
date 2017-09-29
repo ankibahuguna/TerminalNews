@@ -102,10 +102,6 @@ feedparser.on('end',function()
 function getNews(url)
 {
 	
-	// let start = url.lastIndexOf("/");
-	// let end = url.indexOf(".ece");
-	// let articleId = url.substring(start+1,102).replace(/\D/g,'');
-
 	request(url, function (error, response, body) 
 	{
 		  if (!error && response.statusCode == 200) 
