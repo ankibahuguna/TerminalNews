@@ -1,6 +1,6 @@
 # TerminalNews
 
-Read The Hindu from your terminal.
+Read 'The Hindu' newspaper  from your terminal.
 
 
 
