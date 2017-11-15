@@ -31,6 +31,8 @@
     "feedparser": "^2.2.1",
     "html-to-text": "^3.3.0",
     "prompt": "^1.0.0",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "request-retry-stream": "^2.0.0",
+    "word-wrap": "^1.2.3"
   }
 }
